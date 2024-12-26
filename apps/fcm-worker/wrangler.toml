@@ -1,0 +1,7 @@
+name = "fcm-worker"
+main = "dist/main.js"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "prod-d1-tutorial"
+database_id = "9c892795-de0c-4f5f-93d3-daedbc9529b7"
